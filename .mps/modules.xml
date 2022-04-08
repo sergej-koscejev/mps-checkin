@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.apann_mps.checkin.build/com.github.apann_mps.checkin.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.apann_mps.checkin.demo/com.github.apann_mps.checkin.demo.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.apann_mps.checkin.git4idea.stubs/com.github.apann_mps.checkin.git4idea.stubs.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.apann_mps.checkin.plugin/com.github.apann_mps.checkin.plugin.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
