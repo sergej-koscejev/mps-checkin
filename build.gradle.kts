@@ -4,14 +4,12 @@ plugins {
 }
 
 repositories {
-    maven(url = "https://projects.itemis.de/nexus/content/repositories/mbeddr")
+    maven(url = "https://artifacts.itemis.cloud/repository/maven-mps")
     mavenCentral()
-    // JitPack should come last since it will build things on demand
-    maven(url = "https://jitpack.io")
 }
 
 dependencies {
-    "mps"("com.jetbrains:mps:2021.1.3@zip")
+    "mps"("com.jetbrains:mps:2021.1.4@zip")
 }
 
 group = "com.github.mps.apann"
