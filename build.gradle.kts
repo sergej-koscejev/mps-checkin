@@ -1,5 +1,5 @@
 plugins {
-    id("com.specificlanguages.mps") version "1.2.2"
+    id("com.specificlanguages.mps") version "1.8.0"
     `maven-publish`
 }
 
