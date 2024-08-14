@@ -9,7 +9,7 @@ repositories {
 }
 
 dependencies {
-    "mps"("com.jetbrains:mps:2021.1.4@zip")
+    "mps"("com.jetbrains:mps:2022.3.2")
 }
 
 group = "com.github.mps.apann"
